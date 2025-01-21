@@ -18,6 +18,9 @@ This is a **Magisk module**/**Non-root** youtube revanced solution.
 ## Latest Available Version:
 - **Patched YouTube v19.47.53** (Magisk support, includes GMS Core)
 
+### You can download the magisk module and apks.
+from **[Releases](https://github.com/moxiu64/revanced-yt/releases)**
+
 ## Installation Instructions:
 
 1. **Download the Magisk Module**:

@@ -1,8 +1,8 @@
 # revanced-yt
 
-# Patched YouTube APK (v19.47.53) for Magisk
+### Patched YouTube APKs
 
-This is a **Magisk module** that installs a patched version of YouTube with selected patches, **including GMS Core support**, making it compatible for use on rooted devices.
+This is a **Magisk module**/**Non-root** youtube revanced solution.
 
 ## Features:
 - **Unlock Premium**: Enjoy all premium features without a YouTube Premium subscription.
@@ -15,7 +15,7 @@ This is a **Magisk module** that installs a patched version of YouTube with sele
 - **Return YouTube Dislike**: View the dislike count again on YouTube videos.
 - **Hide Shorts Components**: Remove the Shorts section completely.
 
-## Available Versions:
+## Latest Available Version:
 - **Patched YouTube v19.47.53** (Magisk support, includes GMS Core)
 
 ## Installation Instructions:

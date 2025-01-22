@@ -1,5 +1,7 @@
 # revanced-yt
 
+> update magisk version might get depreciated.
+
 ### Patched YouTube APKs
 
 This is a **Magisk module**/**Non-root** youtube revanced solution.

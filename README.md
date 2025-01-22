@@ -16,7 +16,7 @@ This is a **Magisk module**/**Non-root** youtube revanced solution.
 - **Hide Shorts Components**: Remove the Shorts section completely.
 
 ## Latest Available Version:
-- **Patched YouTube v19.47.53** (Magisk support, includes GMS Core)
+- **Patched YouTube v19.47.53** (Magisk support, and an non-root solution includes GMS Core)
 
 ### You can download the magisk module and apks.
 from **[Releases](https://github.com/moxiu64/revanced-yt/releases)**

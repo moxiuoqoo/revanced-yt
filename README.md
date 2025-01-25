@@ -36,39 +36,39 @@ This is a Non-root YouTube Revanced solution.
 
 ### You can download the APKs.
 
-from [Releases](https://github.com/moxiu64/revanced-yt/releases)
+- from **[Releases](https://github.com/moxiu64/revanced-yt/releases)**
 
 ### Installation Instructions for NO-Root (GMSCore):
 
 ### 1. Download the NO-Root APK:
 
-Get the APK file corresponding to your desired version, such as com.google.android.youtube-19.47.53-patched.apk.
+- Get the APK file corresponding to your desired version, such as com.google.android.youtube-19.47.53-patched.apk. (can be downloaded from: [Releases](https://github.com/moxiu64/revanced-yt/releases))
 
 
 
 ### 2. Download GMS Core:
 
-Download the latest version of GMS Core (required for the app to work without root) from ReVanced GMS Core v0.3.1.4.240913. (can be found in [releases](https://github.com/moxiu64/revanced-yt/releases))
+- Download the latest version of GMS Core (required for the app to work without root) from ReVanced GMS Core v0.3.1.4.240913. (can be found in [releases](https://github.com/moxiu64/revanced-yt/releases))
 
 
 
 ### 3. Enable Unknown Sources (if necessary):
 
-Before installing, ensure that your device allows installation from unknown sources.
+- Before installing, ensure that your device allows installation from unknown sources.
 
-Go to Settings > Security > Install unknown apps, and enable the app from which you will install the APK (e.g., your file manager or browser).
+- Go to Settings > Security > Install unknown apps, and enable the app from which you will install the APK (e.g., your file manager or browser).
 
 
 
 ### 4. Install GMS Core:
 
-Install the GMS Core APK file you downloaded in Step 2.
+- Install the GMS Core APK file you downloaded in Step 2.
 
 
 
 ### 5. Install the Patched YouTube APK:
 
-Now, install the Patched YouTube APK file you downloaded in Step 1 by locating it with your file manager or browser and tapping to install.
+- Now, install the Patched YouTube APK file you downloaded in Step 1 by locating it with your file manager or browser and tapping to install.
 
 
 
@@ -78,7 +78,7 @@ Now, install the Patched YouTube APK file you downloaded in Step 1 by locating i
 
 ### 7. Enjoy Patched YouTube:
 
-Once installed, you should now have the patched YouTube app with the selected features active, including GMS Core support for non-rooted devices.
+- Once installed, you should now have the patched YouTube app with the selected features active, including GMS Core support for non-rooted devices.
 
 
 
@@ -88,6 +88,6 @@ Once installed, you should now have the patched YouTube app with the selected fe
 
 ### Uninstallation:
 
-1. Uninstall the APKs:
+- 1. Uninstall the APKs:
 
 To uninstall, go to Settings > Apps > YouTube and GMS Core, then tap Uninstall for both.

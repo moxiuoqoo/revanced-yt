@@ -999,21 +999,26 @@ Description: Adds an option to always use the original audio track.
 Enabled: true
 
 Index: 200
+Name: Disable HDR video
+Description: Adds an option to disable video HDR.
+Enabled: true
+
+Index: 201
 Name: Remember video quality
 Description: Adds an option to remember the last video quality selected.
 Enabled: true
 
-Index: 201
+Index: 202
 Name: Playback speed
 Description: Adds options to customize available playback speeds, remember the last playback speed selected and show a speed dialog button in the video player.
 Enabled: true
 
-Index: 202
+Index: 203
 Name: Restore old video quality menu
 Description: Adds an option to restore the old video quality menu with specific video resolution options.
 Enabled: true
 
-Index: 203
+Index: 204
 Name: Unlock premium
 Description: null
 Enabled: true

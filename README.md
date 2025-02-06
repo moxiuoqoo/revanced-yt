@@ -2,8 +2,11 @@
 
 > UPDATE: magisk version is deprected.
 
+workflows status:
 
-
+[![.github/workflows/stale.yml](https://github.com/moxiu33/revanced-yt/actions/workflows/stale.yml/badge.svg)](https://github.com/moxiu33/revanced-yt/actions/workflows/stale.yml)
+[![.github/workflows/greetings.yml](https://github.com/moxiu33/revanced-yt/actions/workflows/greetings.yml/badge.svg)](https://github.com/moxiu33/revanced-yt/actions/workflows/greetings.yml)
+[![.github/workflows/label.yml](https://github.com/moxiu33/revanced-yt/actions/workflows/label.yml/badge.svg)](https://github.com/moxiu33/revanced-yt/actions/workflows/label.yml)
 ### Patched YouTube APKs
 
 This is a Non-root YouTube Revanced solution.
@@ -32,23 +35,23 @@ This is a Non-root YouTube Revanced solution.
 ### Latest Available Version:
 
 - Patched YouTube v19.47.53 (Non-root solution needs GMS Core)
-
+- Patched YouTube Music v7.29.52 (Non-root solution needs GMS Core)
 
 ### You can download the APKs.
 
-- from **[Releases](https://github.com/moxiu64/revanced-yt/releases)**
+- from **[Releases](https://github.com/moxiu33/revanced-yt/releases)**
 
 ### Installation Instructions for NO-Root (GMSCore):
 
 ### 1. Download the NO-Root APK:
 
-- Get the APK file corresponding to your desired version, such as com.google.android.youtube-19.47.53-patched.apk. (can be downloaded from: [Releases](https://github.com/moxiu64/revanced-yt/releases))
+- Get the APK file corresponding to your desired version, such as com.google.android.youtube-19.47.53-patched.apk. (can be downloaded from: [Releases](https://github.com/moxiu33/revanced-yt/releases))
 
 
 
 ### 2. Download GMS Core:
 
-- Download the latest version of GMS Core (required for the app to work without root) from ReVanced GMS Core v0.3.1.4.240913. (can be found in [releases](https://github.com/moxiu64/revanced-yt/releases))
+- Download the latest version of GMS Core (required for the app to work without root) from ReVanced GMS Core v0.3.1.4.240913. (can be found in [releases](https://github.com/moxiu33/revanced-yt/releases))
 
 
 

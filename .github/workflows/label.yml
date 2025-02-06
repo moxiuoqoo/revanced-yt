@@ -40,4 +40,6 @@ jobs:
     lookup-only: # optional, default is false
     # Run the post step to save the cache even if another step before fails
     save-always: # optional, default is false
-          
+
+- name: Yaml Fixer
+  uses: opt-nc/yamlfixer-action@v1.3.2

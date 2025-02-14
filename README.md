@@ -6,7 +6,7 @@ workflows status:
 
 [![.github/workflows/stale.yml](https://github.com/moxiu33/revanced-yt/actions/workflows/stale.yml/badge.svg)](https://github.com/moxiu33/revanced-yt/actions/workflows/stale.yml)
 [![.github/workflows/greetings.yml](https://github.com/moxiu33/revanced-yt/actions/workflows/greetings.yml/badge.svg)](https://github.com/moxiu33/revanced-yt/actions/workflows/greetings.yml)
-[![.github/workflows/label.yml](https://github.com/moxiu33/revanced-yt/actions/workflows/label.yml/badge.svg)](https://github.com/moxiu33/revanced-yt/actions/workflows/label.yml)
+
 ### Patched YouTube APKs
 
 This is a Non-root YouTube Revanced solution.
